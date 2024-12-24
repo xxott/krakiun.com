@@ -1,0 +1,5 @@
+secrete/*.key filter=git-crypt
+layouts/*.html filter=git-crypt
+*.toml filter=git-crypt
+*.env filter=git-crypt
+*.key filter=git-crypt

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on KRAKIUN LAB</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog on KRAKIUN LAB</description>
+    <generator>Hugo</generator>
+    <language>ro-ro</language>
+    <lastBuildDate>Tue, 24 Dec 2024 15:36:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primul meu articol de blog</title>
+      <link>http://localhost:1313/posts/primul-meu-articol-pe-blog/</link>
+      <pubDate>Tue, 24 Dec 2024 15:36:21 +0200</pubDate>
+      <guid>http://localhost:1313/posts/primul-meu-articol-pe-blog/</guid>
+      <description>&lt;p&gt;Salut și bine ați venit pe blogul meu! Dacă ai ajuns până aici, deja ai făcut primul pas într-un spațiu în care codul întâlnește creativitatea, iar ideile nu sunt doar variabile temporare. Acesta este primul meu articol și, sincer, nu o să încep cu &amp;ldquo;a fost odată&amp;rdquo;. Trecutul e doar un return, iar eu prefer să mă concentrez pe ceea ce urmează să construiesc.&lt;/p&gt;&#xA;&lt;p&gt;Pe acest blog vei găsi proiecte viitoare, idei de business și soluții digitale. Nu pierd timp să scriu despre trecut – nu pentru că n-aș avea povești, dar, sincer, timpul e o resursă non-renewable, și prefer să-l investesc în noi funcționalități. În plus, despre proiectele de succes nu o să scriu. Motive? Simple: contracte NDA, concurență care se creează singură și, bineînțeles, invidia – un bug al societății care nu merită debug-uit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

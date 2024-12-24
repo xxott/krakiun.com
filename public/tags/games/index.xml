@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on KRAKIUN LAB</title>
+    <link>http://localhost:1313/tags/games/</link>
+    <description>Recent content in Games on KRAKIUN LAB</description>
+    <generator>Hugo</generator>
+    <language>ro-ro</language>
+    <atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
