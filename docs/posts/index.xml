@@ -6,15 +6,8 @@
     <description>Recent content in Blog on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
-    <lastBuildDate>Tue, 24 Dec 2024 20:43:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 15:36:21 +0200</lastBuildDate>
     <atom:link href="https://krakiun.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cum Interceptezi Requets la aplicatia Tiktok</title>
-      <link>https://krakiun.com/posts/cum-interceptezi-requets-la-tiktok/</link>
-      <pubDate>Tue, 24 Dec 2024 20:43:06 +0200</pubDate>
-      <guid>https://krakiun.com/posts/cum-interceptezi-requets-la-tiktok/</guid>
-      <description>&lt;p&gt;Primul lucru pe care trebuie sal faci, este sa faci jailbrake la telefon iphone 8, folosing &lt;a href=&#34;https://checkra.in/&#34;&gt;https://checkra.in/&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;trebuie sa apesi pe home si power in acelasi timp, si dupa lasi buttonul power si tii apesat doar pe buttonul home, ca sa plece setupul la jailbrake.&lt;/p&gt;&#xA;&lt;p&gt;Acesta comanda iti arata id procesului, in care ruleaza applicatia tiktok.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; Frida-ps -U &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;grep -i tiktok&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;4735 TikTok&lt;/p&gt;&#xA;&lt;p&gt;Aceasta comanda, dezactiveaza ssl strip la applicatia tiktok.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Primul meu articol pe blog</title>
       <link>https://krakiun.com/posts/primul-meu-articol-pe-blog/</link>
