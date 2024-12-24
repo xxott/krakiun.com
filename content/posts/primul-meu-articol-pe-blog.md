@@ -1,5 +1,5 @@
 ---
-title: "Primul meu articol de blog"
+title: "Primul meu articol pe blog"
 date: 2024-12-24T15:36:21+02:00
 tags: []
 ---
