@@ -4,3 +4,4 @@ layouts/*.html filter=git-crypt
 *.env filter=git-crypt
 *.key filter=git-crypt
 *.md filter=git-crypt
+private/* filter=git-crypt
